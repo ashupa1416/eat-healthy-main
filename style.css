@@ -1,0 +1,67 @@
+body {
+    font-family: 'Oswald', sans-serif;
+
+}
+
+h1 {
+    font-size: 60px;
+    text-align: left;
+    color: rgba(63, 59, 53, 0.89);
+}
+
+p {
+    color: #828282;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+
+.blue-color {
+    color: rgb(3, 180, 250);
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.flexible-container1 {
+    display: flex;
+    padding-bottom: 100px;
+
+}
+
+.male-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 100px;
+}
+
+.male-width img {
+    width: 100%;
+}
+
+.female-width {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.female-width img {
+    width: 100%;
+    padding-top: 50px;
+}
+
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(3, 180, 251), rgb(57, 73, 96));
+    padding: 10px 40px;
+    color: whitesmoke;
+    font-weight: 400px;
+    border-radius: 20px;
+}
+
+.female {
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: left;
+}
